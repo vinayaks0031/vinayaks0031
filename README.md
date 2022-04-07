@@ -42,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://vinayaksharma.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.vinayaksharma.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://vinayaksharma.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.vinayaksharma.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/vinayak-sharma-b94161190/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vinayak%20Sharma-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://instagram.com/vinayak.sharma_?utm_medium=copy_link" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vinayak.sharma_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:vinayaks0031@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-vinayaks0031@gmail.com-blue?style=flat-square&logo=gmail"></a>
